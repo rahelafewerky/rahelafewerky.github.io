@@ -5,4 +5,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-You can download the CV here.
+You can download my CV [here](/files/CV_RahelAfewerky.pdf).
