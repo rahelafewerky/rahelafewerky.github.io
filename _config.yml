@@ -13,10 +13,10 @@ title                    : "Rahel K. Afewerky"
 title_separator          : "-"
 name                     : 
 description              : I am a Ph.D. candidate in Political Science at Western Michigan University. My research focuses on human rights and human security in authoritarian regimes, with an emphasis on initiatives to prevent mass atrocity crimes. My regional expertise spans the Horn of Africa and the Middle East and North Africa (MENA), where I examine how populations navigate day-to-day life under authoritarian rule, an important yet often overlooked area in academic literature.   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://rahelafewerky.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "rahelafewerky/rahelafewerky.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
