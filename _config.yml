@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Rahel K. Afewerky"
 title_separator          : "-"
-name                     : "Rahel K. Afewerky"
+name                     : 
 description              : I am a Doctoral ABD in Political Science at Western Michigan University. My research focuses on human rights and human security in authoritarian regimes, with an emphasis on initiatives to prevent mass atrocity crimes. My regional expertise spans the Horn of Africa and the Middle East and North Africa (MENA), where I examine how populations navigate day-to-day life under authoritarian rule, an important yet often overlooked area in academic literature.   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://rahelafewerky.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "rahelafewerky/rahelafewerky.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Rahel K. Afewerky"
+  name             : 
   pronouns         : # example: "she/her"   
   bio              : 
   location         : 
