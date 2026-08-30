@@ -13,5 +13,5 @@ I am a Doctoral ABD in Political Science at Western Michigan University. My rese
  
 My work has been recognized with the 2024 WMU All-University Graduate Student Research and Creative Scholars Award and the Best Paper Award at the 56th Michigan Political Science Association Conference. My dissertation research is supported by the WMU Dissertation Completion Fellowship.  
 
-I hold a Bachelor’s degree in Political Science and International Relations, along with two Master’s degrees—one in International Relations and another in Political Science.
+I hold a Bachelor’s degree in Political Science and International Relations, along with two Master’s degrees—one in International Relations and another in Political Science. 
  
